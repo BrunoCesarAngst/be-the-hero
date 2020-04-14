@@ -13,10 +13,10 @@ Um projeto de âmbito social, que consiste na capitação de recursos, por doaç
 Siga estes passos
 
 ```bash
-git clone https://github.com/BrunoCesarAngst/omnistack-11.git
-cd omnistack-11
+git clone https://github.com/BrunoCesarAngst/be-the-hero.git
+cd be-the-hero
 ```
 
 |backend             |Frontend            |Mobile                       |
 |:------------------:|:------------------:|:---------------------------:|
-| ``` yarn start ``` | ``` yarn start ``` | ``` yarn start --tunnel ``` |
+| ```yarn start``` | ```yarn start``` | ```yarn start --tunnel``` |
